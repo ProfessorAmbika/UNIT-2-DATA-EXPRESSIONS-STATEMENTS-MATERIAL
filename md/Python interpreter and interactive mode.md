@@ -1,8 +1,8 @@
 # **<center> GE8151 PROBLEM SOLVING AND PYTHON PROGRAMMING </center>**
 ![compiler and interpreter](./img/wc.png)
 ## <center>**UNIT II DATA, EXPRESSIONS, STATEMENTS**</center>
-### <p  style="text-align:justify">Python interpreter and interactive mode; values and types: int, float, boolean, string, and list; variables, expressions, statements, tuple assignment, precedence of operators, comments; modules and functions, function definition and use, flow of execution, parameters and arguments;</p>
-### **<p  style="text-align:justify">Illustrative programs:** exchange the values of two variables, circulate the values of n variables, distance between two points. </p>
+### _Python interpreter and interactive mode; values and types: int, float, boolean, string, and list; variables, expressions, statements, tuple assignment, precedence of operators, comments; modules and functions, function definition and use, flow of execution, parameters and arguments;_
+### **_Illustrative programs: exchange the values of two variables, circulate the values of n variables, distance between two points._**
 
 >## **Table of Contents**
 ***
@@ -75,6 +75,7 @@ Python has two basic modes: script and interactive.
 <p  style="text-align:justify">To access the Python shell, open the terminal of your operating system and then type "python". Press the enter key and the Python shell will appear.</p>
 
 ![python cmd](./img/2.png)
+
 <p  style="text-align:justify"> The >>> indicates that the Python shell is ready to execute and send your commands to the Python interpreter. The result is immediately displayed on the Python shell as soon as the Python interpreter interprets the command. </p>
 <p  style="text-align:justify">To run your Python statements, just type them and hit the enter key. You will get the results immediately, unlike in script mode. For example, to print the text "Hello World", we can type the following:</p>
 
@@ -123,7 +124,9 @@ Be careful not to fall off
 * It is easy to run large pieces of code.
 * Editing your script is easier in script mode.
 * Good for both beginners and experts.
-### **_<u>Disadvantages of Script Mode_**</u>
+### **_Disadvantages of Script Mode_**
 * Can be tedious when you need to run only a single or a few lines of code.
 * Must create and save a file before executing your code.
 
+>## **Values and Types**
+<span style="color:pink">some *blue* text</span>.
