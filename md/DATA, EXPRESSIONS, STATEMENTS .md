@@ -1,6 +1,6 @@
 # **<center> GE8151 PROBLEM SOLVING AND PYTHON PROGRAMMING </center>**
 ![compiler and interpreter](./img/wc.png)
-## <center>**UNIT II DATA, EXPRESSIONS, STATEMENTS**</center>
+## <div align="center">**UNIT II DATA, EXPRESSIONS, STATEMENTS**</div>
 <div align="justify"><p><i>Python interpreter and interactive mode; values and types: int, float, boolean, string, and list; variables, expressions, statements, tuple assignment, precedence of operators, comments; modules and functions, function definition and use, flow of execution, parameters and arguments;</div></p></i>
 <p><div align="justify"><b><i>Illustrative programs: exchange the values of two variables, circulate the values of n variables, distance between two points.</b></i></p>
 
