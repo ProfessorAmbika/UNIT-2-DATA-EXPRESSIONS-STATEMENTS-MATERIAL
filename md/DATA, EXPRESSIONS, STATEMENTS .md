@@ -854,8 +854,9 @@ my_function()
 <p><div align="justify">Moreover, function calls are similar to a bypass in the flow of execution. Thus, in place of going to the next statement, the flow will jump to the first line of the called function. Then, it will execute all the statements there. After that, it will come back to pick up where it left off.</p></div>
 <p><div align="justify">It is essential to remember that when reading a program, do not read it from top to bottom. Instead, keep following the flow of execution. This will ensure that one reads the def statements as they are scanning from top to bottom.</p></div>
 
-![tuple access](./img/15.png
-![tuple access](./img/14.png
+![tuple access](./img/15.png)
+
+![tuple access](./img/14.png)
 
 >## **Parameters and Arguments**
 <p><div align="justify">The terms parameter and argument can be used for the same thing: information that are passed into a function.</p></div>
