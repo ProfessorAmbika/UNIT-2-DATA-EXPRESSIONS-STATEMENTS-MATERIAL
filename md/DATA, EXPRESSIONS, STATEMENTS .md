@@ -9,10 +9,8 @@ https://www.memcode.com/courses/2312 - 50+ flashcards to review the contents of 
 >## **Table of Contents**
 ***
 2.1. [Python interpreter and interactive mode](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#python-interpreter)
-    * Key Terms
-    * Introduction to Python
-    * Python interpreter 
-    * Interactive mode
+- [Key Terms][
+    
 >## **Pre – Unit Exercise**
 ***
 <div align="justify"><p>A simple game to get a clear view on different data values. </div></p>
