@@ -1,4 +1,4 @@
-# **<center> GE8151 PROBLEM SOLVING AND PYTHON PROGRAMMING </center>**
+# **<div align="center"> GE8151 PROBLEM SOLVING AND PYTHON PROGRAMMING </div>**
 ![compiler and interpreter](./img/wc.png)
 ## <div align="center">**UNIT II DATA, EXPRESSIONS, STATEMENTS**</div>
 <div align="justify"><p><i>Python interpreter and interactive mode; values and types: int, float, boolean, string, and list; variables, expressions, statements, tuple assignment, precedence of operators, comments; modules and functions, function definition and use, flow of execution, parameters and arguments;</div></p></i>
