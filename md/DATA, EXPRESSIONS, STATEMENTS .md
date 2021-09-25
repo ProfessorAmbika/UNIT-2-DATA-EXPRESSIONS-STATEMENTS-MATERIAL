@@ -169,11 +169,11 @@ Hello World
 
 Be careful not to fall off
 ```
-### <b><i>Advantages of Interactive Mode</b></i>
+<b><i>Advantages of Interactive Mode</b></i>
 * <p><div align="justify"> Helpful when the script is extremely short and wants immediate results. </div></p>
 * <p><div align="justify"> Faster as you only have to type a command and then press the enter key to get the results. </div></p>
 * <p><div align="justify"> Good for beginners who need to understand Python basics. </div></p>
-### **_Disadvantages of Interactive Mode_**
+**_Disadvantages of Interactive Mode_**
 * <p><div align="justify"> Editing the code in interactive mode is hard to move back to the previous commands or else the whole command has to be rewritten again. </div></p>
 * <p><div align="justify"> It's very tedious to run long pieces of code. </div><p>
 ### **_2. Script Mode:_**
@@ -187,11 +187,12 @@ Be careful not to fall off
 
 ![python cmd](./img/6.png)
 
-### **_Advantages of Script Mode_**
+**_Advantages of Script Mode_**
 * It is easy to run large pieces of code.
 * Editing your script is easier in script mode.
 * Good for both beginners and experts.
-### **_Disadvantages of Script Mode_**
+    
+**_Disadvantages of Script Mode_**
 * Can be tedious when you need to run only a single or a few lines of code.
 * Must create and save a file before executing your code.
 >## **Variables**
