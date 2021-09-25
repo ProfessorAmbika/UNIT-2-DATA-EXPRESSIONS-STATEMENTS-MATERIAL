@@ -10,7 +10,7 @@ https://github.com/Professor-Sathish/GE_8151-unit-programs/tree/master/MD%20FILE
 
 >## **Table of Contents**
 ***
-[2.1. Python interpreter and interactive mode](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/1f6be0b12d6bbc826e09b0a719a1a9b653aff5aa/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#21-python-interpreter)
+[2.1. Python Interpreter](#21-python-interpreter)
 - [2.1.1. Introduction to Python](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#introduction-to-python)
 - [2.1.2. Python Features](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#python-features)
 - [2.1.3. Python interpreter](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#-python-interpreter)
