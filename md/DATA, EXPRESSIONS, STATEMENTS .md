@@ -74,7 +74,9 @@ https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/tree/mast
 2.13. [Parameters and Arguments](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#parameters-and-arguments)
 
 >## **Online References**
-Understand types of [operators](https://www.geeksforgeeks.org/python-operators/) and precedence
+* Understand types of [operators](https://www.geeksforgeeks.org/python-operators/) and [precedence](https://www.geeksforgeeks.org/precedence-and-associativity-of-operators-in-python/)
+* List of [datatypes](https://www.analyticsvidhya.com/blog/2021/08/data-types-in-python-you-need-to-know-at-the-beginning-of-your-data-science-journey/)
+* Create [functions](https://www.analyticsvidhya.com/blog/2021/07/all-fundamentals-of-python-functions-that-you-should-know-a-quick-brush-up/)
     
 >## **Pre – Unit Exercise**
 ***
