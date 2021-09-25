@@ -8,16 +8,16 @@ https://www.memcode.com/courses/2312 - 50+ flashcards to review the contents of 
 
 >## **Table of Contents**
 ***
-2.1. [Python interpreter and interactive mode](# python-interpreter)
-- [Introduction to Python](#introduction-to-python)
-- [Python Features](#python-features)
-- [Python interpreter](#-python-interpreter)
-- [Difference between Compiler and Interpreter](#-difference-between-compiler-and-interpreter)
-- [Modes of Python Interpreter](#modes-of-python-interpreter)
-    - [Interactive Mode](#1-interactive-mode)
-        - [Advantages of Interactive Mode](#advantages-of-interactive-mode)
-        - [Disadvantages of Interactive Mode](#disadvantages-of-interactive-mode)
-    - [Script Mode](#2-script-mode)
+2.1. [Python interpreter and interactive mode](#python-interpreter)
+- 2.1.1. [Introduction to Python](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#introduction-to-python)
+- [Python Features](#https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#python-features)
+- [Python interpreter](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#-python-interpreter)
+- [Difference between Compiler and Interpreter](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#-difference-between-compiler-and-interpreter)
+- [Modes of Python Interpreter](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#modes-of-python-interpreter)
+    - [Interactive Mode](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#1-interactive-mode)
+        - [Advantages of Interactive Mode](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#advantages-of-interactive-mode)
+        - [Disadvantages of Interactive Mode](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#disadvantages-of-interactive-mode)
+    - [Script Mode](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#2-script-mode)
         - [Advantages of Script Mode](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#advantages-of-script-mode)
         - [Disadvantages of Script Mode](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#disadvantages-of-script-mode)      
 
