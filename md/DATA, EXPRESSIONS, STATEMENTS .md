@@ -787,7 +787,7 @@ flag = 2; ropes = 3; pole = 4
 **Example:** https://replit.com/@ErAmbikaM/membershipoperator#main.py
 
 >## **Precedence of operators**
-<p><div align="justify">The following figure lists all operators from highest precedence to lowest.</p></div>
+<p><div align="justify">The following table lists all operators from highest precedence to lowest.</p></div>
 
 | <div align="center">Precedence</div> | <div align="center"> Operator</div> | <div align="center">Description </div>|
 | ----------- | ----------- | ----------- |
