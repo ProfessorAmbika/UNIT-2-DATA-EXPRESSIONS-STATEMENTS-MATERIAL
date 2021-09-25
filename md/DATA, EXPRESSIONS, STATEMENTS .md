@@ -6,72 +6,74 @@
 
 https://www.memcode.com/courses/2312 - 50+ flashcards to review the contents of this unit.
 
-https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/tree/master/unit%20-%202%20%20programs - List of Illustrative Programs in Unit 3.
+https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/tree/master/unit%20-%202%20%20programs - List of Illustrative Programs in Unit 2.
 
 >## **Table of Contents**
 ***
-2.1. [Python interpreter and interactive mode](#python-interpreter)
-- 2.1.1. [Introduction to Python](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#introduction-to-python)
-- 2.1.2. [Python Features](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#python-features)
-- [Python interpreter](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#-python-interpreter)
-- [Difference between Compiler and Interpreter](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#-difference-between-compiler-and-interpreter)
-- [Modes of Python Interpreter](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#modes-of-python-interpreter)
-    - [Interactive Mode](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#1-interactive-mode)
-        - [Advantages of Interactive Mode](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#advantages-of-interactive-mode)
-        - [Disadvantages of Interactive Mode](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#disadvantages-of-interactive-mode)
-    - [Script Mode](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#2-script-mode)
-        - [Advantages of Script Mode](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#advantages-of-script-mode)
-        - [Disadvantages of Script Mode](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#disadvantages-of-script-mode)      
+[2.1. Python interpreter and interactive mode](#python-interpreter)
+- [2.1.1. Introduction to Python](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#introduction-to-python)
+- [2.1.2. Python Features](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#python-features)
+- [2.1.3. Python interpreter](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#-python-interpreter)
+- [2.1.4. Difference between Compiler and Interpreter](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#-difference-between-compiler-and-interpreter)
+- [2.1.5. Modes of Python Interpreter](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#modes-of-python-interpreter)
+    - [2.1.5.1 Interactive Mode](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#1-interactive-mode)
+    - [2.1.5.2. Script Mode](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#2-script-mode)  
 
-2.2. [Variables](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#variables)
-   - [Variable Naming Rules in Python](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#variable-naming-rules-in-python) 
-   - [How to Declare and use a Variable](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#how-to-declare-and-use-a-variable)
-   - [Re-declare a Variable](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#re-declare-a-variable)
-   - [Concatenate Variables](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#concatenate-variables)
-   - [Delete a variable](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#delete-a-variable) 
+[2.2. Variables](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#variables)
+   - [2.2.1. Variable Naming Rules in Python](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#variable-naming-rules-in-python) 
+   - [2.2.2. How to Declare and use a Variable](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#how-to-declare-and-use-a-variable)
+   - [2.2.3. Re-declare a Variable](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#re-declare-a-variable)
+   - [2.2.4. Concatenate Variables](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#concatenate-variables)
+   - [2.2.5. Delete a variable](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#delete-a-variable) 
     
 2.3. [Values and Types](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#values-and-types)
-   - [Data Types](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#data-types)
-   - [Numeric Type](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#numeric-type)
-     - [Integers](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#integers) 
-     - [Float](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#float)
-     - [Complex Number](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#complex-number)
-   - [Boolean](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#boolean)
-   - [Sequence Type](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#sequence-type)
-     - [String](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#string) 
-     - [Escape Sequences](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#escape-sequences)
-     - [List](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#list)
-     - [Tuple](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#tuple)
-  
-2.4. [Expressions](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#expressions)
+   - [2.3.1. Data Types](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#data-types)
+   - [2.3.2. Numeric Type](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#numeric-type)
+     - [2.3.2.1 Integers](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#integers) 
+     - [2.3.2.2 Float](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#float)
+     - [2.3.2.3. Complex Number](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#complex-number)
+   - [2.3.3. Boolean](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#boolean)
+   - [2.3.4. Sequence Type](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#sequence-type)
+     - [2.3.4.1 String](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#string) 
+     - [2.3.4.2. List](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#list)
+     - [2.3.4.3. Tuple](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#tuple)
+   - [2.3.5. Dictionary](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#dictionary)
+   - [2.3.6. Set](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#set)
 
-2.5. [Statements](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#statements)
+[2.4. Statements](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#statements)
 
-2.6. [Operators](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#arithmetic-operators)
-   - [Arithmetic operators](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#arithmetic-operators)
-   - [Comparison operators](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#comparison-operators)
-   - [Logical operators](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#logical-operators)
-   - [Bitwise operators](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#bitwise-operators)
-   - [Assignment operators](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#assignment-operators)
-   - [Special operators](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#special-operators)
-     - [Identity operators](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#identity-operators)
-     - [Membership operators](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#membership-operators)
+[2.5. Operators](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#arithmetic-operators)
+   - [2.5.1. Arithmetic operators](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#arithmetic-operators)
+   - [2.5.2. Comparison operators](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#comparison-operators)
+   - [2.5.3. Logical operators](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#logical-operators)
+   - [2.5.4. Bitwise operators](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#bitwise-operators)
+   - [2.5.5. Assignment operators](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#assignment-operators)
+   - [2.5.6. Special operators](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#special-operators)
+     - [2.5.6.1 Identity operators](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#identity-operators)
+     - [2.5.6.2. Membership operators](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#membership-operators)
 
-2.7. [Precedence of operators](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#precedence-of-operators)
+[2.6. Precedence of operators](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#precedence-of-operators)
 
-2.8. [Comments](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#comments)
-   - [Single-Line Comments in Python](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#single-line-comments-in-python)
-   - [Multi-Line Comments in Python](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#multi-line-comments-in-python)
+[2.7. Expressions](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#expressions)
 
-2.9. [Modules](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#modules)
+[2.8. Comments](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#comments)
+   - [2.8.1. Single-Line Comments in Python](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#single-line-comments-in-python)
+   - [2.8.2. Multi-Line Comments in Python](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#multi-line-comments-in-python)
 
-2.10. [Functions](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#functions)
+[2.9. Modules](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#modules)
 
-2.11. [Function Definition and Use](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#function-definition-and-use)
+[2.10. Functions](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#functions)
 
-2.12. [Flow of Execution](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#flow-of-execution)
+[2.11. Function Definition and Use](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#function-definition-and-use)
 
-2.13. [Parameters and Arguments](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#parameters-and-arguments)
+[2.12. Flow of Execution](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#flow-of-execution)
+
+[2.13. Parameters and Arguments](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#parameters-and-arguments)
+   - [2.13.1. Types of Arguments](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#types-of-arguments) 
+        - [2.13.1.1. Required Arguments](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#required-arguments)
+        - [2.13.1.2. Keyword Arguments](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#keyword-arguments)
+        - [2.13.1.3. Default Arguments](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#default-arguments)
+        - [2.13.1.4. Variable-Length Arguments](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#variable-length-arguments)
 
 >## **Online References**
 * Understand types of [operators](https://www.geeksforgeeks.org/python-operators/) and [precedence](https://www.geeksforgeeks.org/precedence-and-associativity-of-operators-in-python/)
@@ -98,9 +100,9 @@ https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/tree/mast
 * <p><div align="justify"><b><i>Operator precedence</b></i> determines how operators are parsed concerning each other. Operators with higher precedence become the operands of operators with lower precedence. </div></p>
 * <p><div align="justify"><b><i>Function</b></i> is a block of organized, reusable code that is used to perform a single, related action. Functions provide better modularity for your application and a high degree of code reusing.   </div></p>
 
->## **Python Interpreter**
+>## **2.1. Python Interpreter**
 ***
-## **Introduction to Python**
+## **2.1.1. Introduction to Python**
 <p><div align="justify">Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation.</div></p>
 
 <div align="justify">It was created by Guido van Rossum during <b><i>1985-1990</b></i>. Python got its name from <b><i>“Monty Python’s flying circus”</b></i>. Python was released in the year 2000.</div>
@@ -109,7 +111,7 @@ https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/tree/mast
 * <p><div align="justify"><b><i>Python is Interactive: </b></i> You can actually sit at a Python prompt and interact with the interpreter directly to write your programs. </div></p>
 * <p><div align="justify"><b><i>Python is Object-Oriented: </b></i> Python supports Object-Oriented style or technique of programming that encapsulates code within objects. </div></p>
 * <p><div align="justify"><b><i>Python is a Beginner's Language: </b></i> Python is a great language for the beginner- Level programmers and supports the development of a wide range of applications.</div> </p>
-## **Python Features**
+## **2.1.2. Python Features**
 * <p><div align="justify"> <b><i>Easy-to-learn: </b></i> Python is clearly defined and easily readable. The structure of the program is very simple. It uses few keywords. </div></p>
 * <p><div align="justify"> <b><i>Easy-to-maintain:</b></i> Python's source code is fairly easy-to-maintain. </p></div>
 * <p><div align="justify"> <b><i>Portable:</b></i> Python can run on a wide variety of hardware platforms and has the same interface on all platforms. </div></p>
@@ -119,13 +121,13 @@ https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/tree/mast
 * <p><div align="justify"><b><i> High Level Language: </b></i> When writing programs, programmers concentrate on solutions of the current problem, no need to worry about the low level details. </div></p>
 * <p><div align="justify"><b><i>Scalable:</b></i> Python provides a better structure and support for large programs than shell scripting.</div></p>
 
-## **Python interpreter**
+## **2.1.3. Python interpreter**
 <p><div align="justify"> <b><i>Interpreter:</b></i> An interpreter is a translator (computer program) that repeatedly reads instructions (one at a time) and translates them to machine code. It then executes instructions written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program. </div></p>
 
 <div align="justify"> <b><i>Compiler:</b></i> To translate a program written in a high-level language into a low-level language all at once, in preparation for later execution. </div> </p>
 
 ![compiler and interpreter](./img/1.png)
-## **Difference between Compiler and Interpreter**
+## **2.1.4. Difference between Compiler and Interpreter**
 |<div align="center"> Compiler </div> |<div align="center"> Interpreter </div> |
 | --- | ----------- |
 | <div align="justify"> Scans the entire program and translates it as a whole into machine code. </div> | <div align="justify">Translates program one statement at a time. </div>|
@@ -133,10 +135,10 @@ https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/tree/mast
 | <div align="justify"> Generates intermediate object code which further requires linking, hence requires more memory. </div> | <div align="justify"> No intermediate object code is generated, hence are memory efficient. </div> |
 | <div align="justify"> It generates the error message only after scanning the whole program. Hence debugging is comparatively hard. </div> | <div align="justify"> Continues translating the program until the first error is met, in which case it stops. Hence debugging is easy. </div>|
 | <div align="justify"> Programming language like C, C++ uses compilers. </div> | <div align="justify"> Programming languages like Python, Ruby use interpreters. </div> |
-## **Modes of Python Interpreter** 
+## **2.1.5. Modes of Python Interpreter** 
 Python has two basic modes: script and interactive.
 
-###  **_1. Interactive Mode:_**
+###  **_2.1.5.1. Interactive Mode:_**
 <p><div align="justify">Interactive mode is a command line shell which gives immediate feedback for each statement, while running previously fed statements in active memory. As new lines are fed into the interpreter, the fed program is evaluated both in part and in whole.</div></p>
 <p><div align="justify">The code executes via the Python shell, which comes with Python installation. Interactive mode is handy when you just want to execute basic Python commands or you are new to Python programming. </div></p>
 <p><div align="justify">To access the Python shell, open the terminal of your operating system and then type "python". Press the enter key and the Python shell will appear.</div></p>
@@ -176,7 +178,8 @@ Be careful not to fall off
 **_Disadvantages of Interactive Mode_**
 * <p><div align="justify"> Editing the code in interactive mode is hard to move back to the previous commands or else the whole command has to be rewritten again. </div></p>
 * <p><div align="justify"> It's very tedious to run long pieces of code. </div><p>
-### **_2. Script Mode:_**
+    
+### **_2.1.5.2. Script Mode:_**
 <p><div align="justify"> In script mode, we type python program in a file and then use interpreter to execute the content of the file. Scripts can be saved to disk for future use. Python scripts have the extension .py, meaning that the filename ends with     <i><b>.py</i></b>. Save the code with <i><b>filename.py</i></b> and run the interpreter in script mode to execute the script. </div></p>
 <p><div align="justify"> In the standard Python shell, click <i><b>"File"</i></b> then choose <i><b>"New"</i></b> or simply hit <i><b>"Ctrl + N"</i></b> on your keyboard to open a blank script in which you can write your code. You can then press <i><b>"Ctrl + S"</i></b> to save it. </div><p>
 <p><div align="justify"> After writing your code, run it by clicking <i><b>"Run"</i></b> then "Run Module" or simply <i><b>press F5</i></b>. </div><p>
@@ -195,19 +198,19 @@ Be careful not to fall off
 **_Disadvantages of Script Mode_**
 * Can be tedious when you need to run only a single or a few lines of code.
 * Must create and save a file before executing your code.
->## **Variables**
+>## **2.2. Variables**
 ***
 <p><div align="justify">A Python variable is a reserved memory location to store values. In other words, a variable in a python program gives data to the computer for processing.</div></p>
 <p><div align="justify">Every value in Python has a datatype. Different data types in Python are Numbers,
 List, Tuple, Strings, Dictionary, etc. Variables can be declared by any name. </p></div>
 
-## **_Variable Naming Rules in Python_** 
+## **_2.2.1. Variable Naming Rules in Python_** 
 * <p><div align="justify"> Variable name should start with letter(a-zA-Z) or underscore ( _ ). </p></div> <b>Valid : age , _age , Age <p>Invalid : 1age</p></b>
 * <p><div align="justify">In variable name, no special characters allowed other than underscore ( _ ). </p></div> <b>Valid : age_ , _age <p>Invalid : age_*</p></b>
 * <p><div align="justify">Variables are case sensitive.</p> </div><b><i>age</i> and <i>Age</i> are different, since variable names are case sensitive</b>
 * <p><div align="justify">Variable name can have numbers but not at the beginning.</p></div> <b>Example: Age1</b>
 * <p><div align="justify">Variable name should not be a Python keyword. Keywords are also called as reserved words.</p></div> <b>Example: pass, break, continue.. etc are reserved for special meaning in Python. So, we should not declare keyword as a variable name. </b>
-## **_How to Declare and use a Variable_** 
+## **_2.2.2. How to Declare and use a Variable_** 
 <p><div align="justify">Let see an example. We will declare variable "a" and print it</div></p>
 
 ```python
@@ -219,7 +222,7 @@ List, Tuple, Strings, Dictionary, etc. Variables can be declared by any name. </
 100
 ```
 
-## **_Re-declare a Variable_** 
+## **_2.2.3. Re-declare a Variable_** 
 <p><div align="justify">You can re-declare the variable even after you have declared it once.</p></div>
 
 ```python
@@ -234,7 +237,7 @@ List, Tuple, Strings, Dictionary, etc. Variables can be declared by any name. </
 Python
 ```
 
-## **_Concatenate Variables_**
+## **_2.2.4. Concatenate Variables_**
 ```python
 >>>string1='ABS'
 >>>number=1
@@ -256,14 +259,14 @@ TypeError: can only concatenate str (not "int") to str
 ```
 ABS1
 ```
-## **_Delete a variable_**
+## **_2.2.5. Delete a variable_**
 <p><div align="justify">It is possible to delete variable using the command del "variable name".</p></div>
 
 ![python cmd](./img/delete.PNG)
 
->## **Values and Types**
+>## **2.3. Values and Types**
 ***
-## **Data Types**
+## **2.3.1. Data Types**
 <p><div align="justify">Data types are the <i>classification or categorization of data items</i>. Python supports the following built-in data types</div></p>
 
 * Numeric
@@ -274,8 +277,8 @@ ABS1
 
 ![python cmd](./img/datatypes.PNG)
 
-## **Numeric Type**
-## **_Integers_**
+## **2.3.2. Numeric Type**
+## **_2.3.2.1. Integers_**
 <p><div align="justify">This value is represented by int class. It contains positive or negative whole numbers (without fraction or decimal). In Python there is no limit to how long an integer value can be. The followings are valid integer literals in Python.</p></div>
 
 ``` python
@@ -344,7 +347,7 @@ SyntaxError: leading zeros in decimal integer literals are not permitted; use an
 >>> int('100', 2)
 4
 ```
-## **_Float_**
+## **_2.3.2.2. Float_**
 <p><div align="justify"> In Python, floating point numbers (float) are positive and negative real numbers with a fractional part denoted by the decimal symbol . or the scientific notation E or e, <b>e.g. 1234.56, 3.142, -1.55, 0.23.</b></p></div>
 
 ```python
@@ -368,7 +371,7 @@ SyntaxError: leading zeros in decimal integer literals are not permitted; use an
 >>> float_num
 inf
 ```
-## **_Complex Number_**
+## **_2.3.2.3. Complex Number_**
 <p><div align="justify">A complex number is a number with real and imaginary components. For example, 5 + 6j is a complex number where 5 is the real component and 6 multiplied by j is an imaginary component.</p></div>
 
 ```python
@@ -391,7 +394,7 @@ SyntaxError: invalid syntax
 >>> complex_num=5j+2j
 SyntaxError: invalid syntax
 ```
-## **Boolean**
+## **2.3.3. Boolean**
 <p><div align="justify">Data type with one of the two built-in values, True or False. Boolean objects that are equal to True are truthy (true), and those equal to False are falsy (false). But non-Boolean objects can be evaluated in Boolean context as well and determined to be true or false. It is denoted by the <b><i>class bool</b></i>.True and False with capital <b><i>‘T’ and ‘F’</b></i> are valid booleans otherwise python will throw an error.</p></div>
 
 ```python
@@ -407,13 +410,13 @@ Traceback (most recent call last):
 NameError: name 'true' is not defined
 ```
 
-## **Sequence Type**
+## **2.3.4. Sequence Type**
 <p><div align="justify">In Python, sequence is the ordered collection of similar or different data types. Sequences allows to store multiple values in an organized and efficient fashion. There are several sequence types in Python</p></div>
 
 * String
 * List
 * Tuple
-## **_String_**
+## **_2.3.4.1. String_**
 <p><div align="justify">In Python, string is an immutable sequence data type. It is the sequence of Unicode characters wrapped inside single, double, or triple quotes.</p></div>
 
 ```python
@@ -485,7 +488,7 @@ TypeError: 'str' object does not support item assignment
 >>> type(wish)
 <class 'str'>
 ```
-### **_Escape Sequences_**
+**_Escape Sequences_**
 <p><div align="justify">The escape character is used to invoke an alternative implementation of the subsequent character in a sequence.</p></div>
 
 ```python
@@ -507,7 +510,7 @@ Welcome to "Python Tutorial"
 | <div align="center"> \t </div> | <div align="center">Tab </div>| <div> >>>'Hello\tPython'</div> Hello &nbsp; &nbsp; &nbsp; &nbsp; Python |
 | <div align="center"> \xnn </div> | <div align="center">Hexadecimal notation, where n is in the range 0-9, a-f, or A-F </div>| <div> >>> '\x48\x69'</div> Hi |
 | <div align="center"> \onn </div> | <div align="center">Octal notation, where n is in the range 0-9 </div>| <div> >>> "\110\151"</div> Hi 
-## **_List_**
+## **_2.3.4.2. List_**
 <p><div align="justify">Lists are just like the arrays, declared in other languages which is a ordered collection of data. It is very flexible as the items in a list do not need to be of the same type.</div></p>
 
 **Creating a List :**
@@ -527,7 +530,7 @@ number=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20, 21,22,23,24,25,26,27
 <p><div align="justify">A list can contain multiple inner lists as items that can be accessed using indexes.</p></div>
 
 **Example:** https://replit.com/@ErAmbikaM/innerlist#main.py
-## **_Tuple_**
+## **_2.3.4.3. Tuple_**
 <p><div align="justify">Tuple is an immutable (unchangeable) collection of elements of different data types. It is an ordered collection, so it preserves the order of elements in which they were defined.</p></div>
 <p><div align="justify">Tuples are defined by enclosing elements in parentheses ( ), separated by a comma. The following declares a tuple type variable. </p></div>
 
@@ -618,7 +621,7 @@ print(a, b, c, d)
 ```
 **Output**
 ![tuple access](./img/12.png)
-## **Dictionary**
+## **2.3.5. Dictionary**
 <p><div align="justify"> Dictionary in Python is an unordered collection of data values, used to store data values like a map, which, unlike other Data Types that hold only a single value as an element, Dictionary holds key:value pair. Key-value is provided in the dictionary to make it more optimized.</p></div>
 <p><div align="justify">In Python, a Dictionary can be created by placing a sequence of elements within curly <b>{ } braces</b>, separated by <b>‘comma’</b>. Dictionary holds a pair of values, one being the Key and the other corresponding pair element being its <b>Key:value</b>. Values in a dictionary can be of any data type and can be duplicated, whereas keys can’t be repeated and must be immutable.</p></div> 
 
@@ -648,7 +651,7 @@ print(Dict[1])
 **Output**
 
 ![Dict](./img/dict.PNG)
-## **Set**
+## **2.3.6. Set**
 <p><div align="justify">A Set is an unordered collection data type that is iterable, mutable and has no duplicate elements. Python’s set class represents the mathematical notion of a set. </p></div>
 <p><div align="justify">The major advantage of using a set, as opposed to a list, is that it has a highly optimized method for checking whether a specific element is contained in the set. This is based on a data structure known as a hash table. Since sets are unordered, we cannot access items using indexes like we do in lists.</p></div>
 
@@ -671,7 +674,7 @@ print(myset)
 ```
 
 
->## **Statements**
+>## **2.4. Statements**
 ***
 <p><div align="justify">
 Instructions written in the source code for execution are called statements. There are different types of statements in the Python programming language like Assignment statements, Conditional statements, Looping statements, etc. These all help the user to get the required output. For example, n = 50 is an assignment statement. </p></div>
@@ -699,11 +702,11 @@ x = {1 + 2 + 3 + 4 + 5 + 6 +
 #Declared using semicolons(;) :
 flag = 2; ropes = 3; pole = 4
 ```
->## **Operators**
+>## **2.5. Operators**
 ***
 <p><div align="justify">Operators are special symbols in Python that carry out arithmetic or logical computation. The value that the operator operates on is called the operand.</p></div>
 
-## **_Arithmetic operators_**
+## **_2.5.1. Arithmetic operators_**
 <p><div align="justify">Arithmetic operators are used to perform mathematical operations like addition, subtraction, multiplication, etc.</p></div>
 
 | <div align="center">Operator</div> | <div align="center">Meaning</div> | <div align="center">Example</div> |
@@ -717,7 +720,7 @@ flag = 2; ropes = 3; pole = 4
 | <div align="center"> ** </div> | <div align="justify">Exponent - left operand raised to the power of right </div>|<div align="center"> x**y (x to the power y) </div> |
 
 **Example:** https://replit.com/@ErAmbikaM/arithmeticoperator#main.py
-## **_Comparison operators_**
+## **_2.5.2. Comparison operators_**
 <p><div align="justify">Comparison operators are used to compare values. It returns either True or False according to the condition.</p></div>
 
 | <div align="center">Operator</div> | <div align="center">Meaning</div> | <div align="center">Example</div> |
@@ -731,7 +734,7 @@ flag = 2; ropes = 3; pole = 4
 
 **Example:** https://replit.com/@ErAmbikaM/Comparisonoperator#main.py
 
-## **_Logical operators_**
+## **_2.5.3. Logical operators_**
 <p><div align="justify">Logical operators are the and, or, not operators.</p></div>
 
 | <div align="center">Operator</div> | <div align="center">Meaning</div> | <div align="center">Example</div> |
@@ -741,7 +744,7 @@ flag = 2; ropes = 3; pole = 4
 
 **Example:** https://replit.com/@ErAmbikaM/Logicaloperator#main.py
 
-## **_Bitwise operators_**
+## **_2.5.4. Bitwise operators_**
 <p><div align="justify">Bitwise operators act on operands as if they were strings of binary digits. They operate bit by bit, hence the name.</p></div>
 <p><div align="justify">In the table below: Let x = 10 (0000 1010 in binary) and y = 4 (0000 0100 in binary)</p></div>
 
@@ -753,7 +756,7 @@ flag = 2; ropes = 3; pole = 4
 | <div align="center">^</div> | <div align="justify">Bitwise XOR </div>| <div align="center">x ^ y = 14 (0000 1110)</div> |
 | <div align="center">>></div> | <div align="justify">Bitwise right shift </div>| <div align="center">x >> 2 = 2 (0000 0010) </div>|
 | <div align="center"><<</div> | <div align="justify">Bitwise left shift </div>|<div align="center"> x << 2 = 40 (0010 1000)</div> |
-## **_Assignment operators_**
+## **_2.5.5. Assignment operators_**
 <p><div align="justify">Assignment operators are used in Python to assign values to variables. a = 5 is a simple assignment operator that assigns the value 5 on the right to the variable a on the left.</p></div>
 
 | <div align="center">Operator</div> | <div align="center">Meaning</div> | <div align="center">Example</div> |
@@ -771,10 +774,10 @@ flag = 2; ropes = 3; pole = 4
 | <div align="center">^=</div> | <div align="center"> x ^= 5 </div>|<div align="center"> x = x ^ 5 </div> |
 | <div align="center">>>=</div> | <div align="center"> x >>= 5 </div>|<div align="center"> x = x >> 5 </div> |
 | <div align="center"><<=</div> | <div align="center"> x <<= 5</div>|<div align="center"> x = x << 5</div> |
-## **_Special operators_**
+## **_2.5.6. Special operators_**
 <p><div align="justify">Python language offers some special types of operators like the identity operator or the membership operator. </p></div>
 
-### **_Identity operators_**
+### **_2.5.6.1. Identity operators_**
 <p><div align="justify"> <b>is and is not</b> are the identity operators in Python. They are used to check if two values (or variables) are located on the same part of the memory. Two variables that are equal does not imply that they are identical.
 
 | <div align="center">Operator</div> | <div align="center">Meaning</div> | <div align="center">Example</div> |
@@ -784,7 +787,7 @@ flag = 2; ropes = 3; pole = 4
 
 **Example:** https://replit.com/@ErAmbikaM/identity-operator#main.py
 
-### **_Membership operators_**
+### **_2.5.6.2. Membership operators_**
 <p><div align="justify">in and not in are the membership operators in Python. They are used to test whether a value or variable is found in a sequence (string, list, tuple, set and dictionary). In a dictionary we can only test for presence of key, not the value.</p></div>
 
 | <div align="center">Operator</div> | <div align="center">Meaning</div> | <div align="center">Example</div> |
@@ -794,7 +797,7 @@ flag = 2; ropes = 3; pole = 4
 
 **Example:** https://replit.com/@ErAmbikaM/membershipoperator#main.py
 
->## **Precedence of operators**
+>## **2.6. Precedence of operators**
 <p><div align="justify">The following table lists all operators from highest precedence to lowest.</p></div>
 
 | <div align="center">Precedence</div> | <div align="center"> Operator</div> | <div align="center">Description </div>|
@@ -813,7 +816,7 @@ flag = 2; ropes = 3; pole = 4
 | <div align="center"> Highest Precedence </div> | <div align="center"> ** </div>|<div align="center"> Exponentiation </div> |
 
 
->## **Expressions**
+>## **2.7. Expressions**
 ***
 <p><div align="justify">A simple example of an expression is 2 + 3. An expression can be broken down into operators and operands.</p></div> 
 <p><div align="justify">An expression is a combination of values, variables, operators, and calls to functions. Expressions need to be evaluated. If you ask Python to print an expression, the interpreter evaluates the expression and displays the result. </p></div>
@@ -829,10 +832,10 @@ flag = 2; ropes = 3; pole = 4
 6973568802
 ```
 
->## **Comments**
+>## **2.8. Comments**
 <p><div align="justify">Comments are lines that exist in computer programs that are ignored by compilers and interpreters. Using comments in programs can make code more readable for humans, as it provides some information or explanation about what each part of a program is doing.</p></div>
 
-### **_Single-Line Comments in Python_**
+### **_2.8.1. Single-Line Comments in Python_**
 <p><div align="justify">In Python, we use the hash symbol # to write a single-line comment.</p></div>
 
 ```python
@@ -841,7 +844,7 @@ print('Hello world')
 ```
 Here, the comment is: **# printing a string**
 
-### **_Multi-Line Comments in Python_**
+### **_2.8.2. Multi-Line Comments in Python_**
 <p><div align="justify">Python doesn't offer a separate way to write multiline comments. However, there are other ways to get around this issue.
 
 **Using multiple #**
@@ -864,7 +867,7 @@ multiline comment!
 '''
 print("Hello World")
 ```
->## **Modules**
+>## **2.9. Modules**
 <p><div align="justify">Consider a module to be the same as a code library. A file containing a set of functions you want to include in your application. </p></div>
 
 **Create a Module**
@@ -909,7 +912,7 @@ print(age)
 ```
 36
 ```
->## **Functions**
+>## **2.10. Functions**
 <p><div align="justify">Python Functions is a block of related statements designed to perform a computational, logical, or evaluative task. The idea is to put some commonly or repeatedly done tasks together and make a function so that instead of writing the same code again and again for different inputs, we can do the function calls to reuse code contained in it over and over again. </p></div>
 
 * <p><div align="justify"> Function blocks begin with the keyword <b>def</b> followed by the function name and parentheses ( ( ) ). </p></div>
@@ -928,7 +931,7 @@ def function_name(parameters):
     statement(s)
     return expression
 ```
->## **Function Definition and Use**
+>## **2.11. Function Definition and Use**
 **_Creating a Function_**
 <p><div align="justify">In Python a function is defined using the def keyword:</p></div>
 
@@ -947,7 +950,7 @@ my_function()
 ```
 **Example:** https://replit.com/@ErAmbikaM/functionexample#main.py
 
->## **Flow of Execution**
+>## **2.12. Flow of Execution**
 <p><div align="justify">The flow of execution basically refers to the order in which statements are executed. That is to say, execution always starts at the first statement of the program. Moreover, statements execute one at a time. It happens in order, from top to bottom.</p></div>
 <p><div align="justify">Further, functions definitions do not alter the flow of execution of the program. However, it remembers the statements inside the function do not execute until the functions is called.</p></div>
 <p><div align="justify">Moreover, function calls are similar to a bypass in the flow of execution. Thus, in place of going to the next statement, the flow will jump to the first line of the called function. Then, it will execute all the statements there. After that, it will come back to pick up where it left off.</p></div>
@@ -957,7 +960,7 @@ my_function()
 
 ![tuple access](./img/14.png)
 
->## **Parameters and Arguments**
+>## **2.13. Parameters and Arguments**
 <p><div align="justify">The terms parameter and argument can be used for the same thing: information that are passed into a function.</p></div>
 
 * <p><div align="justify">The terms parameter and argument can be used for the same thing: information that are passed into a function.</p></div>
@@ -967,7 +970,7 @@ my_function()
 **_Number of Arguments_**
 <p><div align="justify">By default, a function must be called with the correct number of arguments. Meaning that if your function expects 2 arguments, you have to call the function with 2 arguments, not more, and not less.</p></div>
 
-## **_Types of Arguments_**
+## **_2.13.1. Types of Arguments_**
 
 <p><div align="justify">You can call a function by using the following types of formal arguments −</p></div>
 
@@ -976,24 +979,24 @@ my_function()
 * Default arguments
 * Variable-length arguments
 
-### **_Required Arguments_**
+### **_2.13.1.1. Required Arguments_**
 * <p><div align="justify">Required arguments are the arguments passed to a function in correct positional order. </p></div>
 * <p><div align="justify">Here, the number of arguments in the function call should match exactly with the function definition. </p></div>
 
 **Example:** https://replit.com/@ErAmbikaM/RequiredArguments#main.py
 
-### **_Keyword Arguments_**
+### **_2.13.1.2. Keyword Arguments_**
 * <p><div align="justify">Keyword arguments are related to the function calls. 
 * <p><div align="justify">When you use keyword arguments in a function call, the caller identifies the arguments by the parameter name.</p></div>
 
 **Example:** https://replit.com/@ErAmbikaM/KeywordArguments#main.py
 
-### **_Default Arguments_**
+### **_2.13.1.3. Default Arguments_**
 * <p><div align="justify">A default argument is an argument that assumes a default value if a value is not provided in the function call for that argument. </p></div>
 
 **Example:** <p> https://replit.com/@ErAmbikaM/Default-Arguments#main.py </p>
 
-### **_Variable Length Arguments_**
+### **_2.13.1.4. Variable Length Arguments_**
 * <p><div align="justify">You may need to process a function for more arguments than you specified while defining the function. </p></div>
 * <p><div align="justify">These arguments are called variable-length arguments and are not named in the function definition, unlike required and default arguments. </p></div>
 * <p><div align="justify">If a function has both required and variable length arguments, then required arrguments should be followed by the variable length arguments as given in the syntax below.</p></div>
