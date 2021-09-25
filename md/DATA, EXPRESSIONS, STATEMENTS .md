@@ -1018,9 +1018,9 @@ def functionname([formal_args,] *var_args_tuple ):
 | ----------- | ----------- | ----------- |-------------|
 | <div align="center">.</div> | <div align="center"> dot</div> | <div align="justify">This operators is used to access attributes or methods of object </div>|<div align="center">math.sqrt(3)</div>|
 | <div align="center">( )</div> | <div align="center"> group</div> | <div align="justify">These operators are used to group expression to increase it’s precedence </div>|<div align="center">(x + y) * z</div>|
-| <div align="center">[ ]</div> | <div align="center"> subscript / index</div> | <div align="justify">Used to access elements/ items of containers/ sequences </div>| <div> x[1] </div> y[‘name’]</div>|
-| <div align="center">::</div> | <div align="center"> Slice</div> | <div align="justify">Used on sequences to extract part of the sequence </div>| <div> x[::] </div> y[:]</div>|
-| <div align="center">...</div> | <div align="center"> Ellipsis</div> | <div align="justify">Special value used in extending slice syntax for user defined containers </div>| |
+| <div align="center">[ ]</div> | <div align="center"> subscript / index</div> | <div align="justify">Used to access elements/ items of containers/ sequences </div>| <div> x[1] </div> y[‘name’]|
+| <div align="center">::</div> | <div align="center"> Slice</div> | <div align="justify">Used on sequences to extract part of the sequence </div>| <div> x[::] </div> y[:]|
+| <div align="center">...</div> | <div align="center"> Ellipsis</div> | <div align="justify">Special value used in extending slice syntax for user defined containers | |
 | <div align="center">@</div> | <div align="center"> Ellipsis</div> | <div align="justify">Used to implement decorators </div>| |
 
 What is the output of the following program :
