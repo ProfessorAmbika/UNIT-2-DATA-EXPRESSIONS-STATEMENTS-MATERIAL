@@ -32,9 +32,9 @@ https://www.memcode.com/courses/2312 - 50+ flashcards to review the contents of 
    - [Data Types](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#data-types)
    - [Numeric Type](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#numeric-type)
      - [Integers](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#integers) 
-     - [Boolean](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#boolean)
      - [Float](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#float)
      - [Complex Number](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#complex-number)
+   - [Boolean](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#boolean)
    - [Sequence Type](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#sequence-type)
      - [String](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#string) 
      - [Escape Sequences](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#escape-sequences)
@@ -93,7 +93,7 @@ https://www.memcode.com/courses/2312 - 50+ flashcards to review the contents of 
 
 >## **Python Interpreter**
 ***
-## **<u>Introduction to Python</u>**
+## **Introduction to Python**
 <p><div align="justify">Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation.</div></p>
 
 <div align="justify">It was created by Guido van Rossum during <b><i>1985-1990</b></i>. Python got its name from <b><i>“Monty Python’s flying circus”</b></i>. Python was released in the year 2000.</div>
@@ -102,7 +102,7 @@ https://www.memcode.com/courses/2312 - 50+ flashcards to review the contents of 
 * <p><div align="justify"><b><i>Python is Interactive: </b></i> You can actually sit at a Python prompt and interact with the interpreter directly to write your programs. </div></p>
 * <p><div align="justify"><b><i>Python is Object-Oriented: </b></i> Python supports Object-Oriented style or technique of programming that encapsulates code within objects. </div></p>
 * <p><div align="justify"><b><i>Python is a Beginner's Language: </b></i> Python is a great language for the beginner- Level programmers and supports the development of a wide range of applications.</div> </p>
-## **<u>Python Features</u>**
+## **Python Features**
 * <p><div align="justify"> <b><i>Easy-to-learn: </b></i> Python is clearly defined and easily readable. The structure of the program is very simple. It uses few keywords. </div></p>
 * <p><div align="justify"> <b><i>Easy-to-maintain:</b></i> Python's source code is fairly easy-to-maintain. </p></div>
 * <p><div align="justify"> <b><i>Portable:</b></i> Python can run on a wide variety of hardware platforms and has the same interface on all platforms. </div></p>
@@ -112,14 +112,14 @@ https://www.memcode.com/courses/2312 - 50+ flashcards to review the contents of 
 * <p><div align="justify"><b><i> High Level Language: </b></i> When writing programs, programmers concentrate on solutions of the current problem, no need to worry about the low level details. </div></p>
 * <p><div align="justify"><b><i>Scalable:</b></i> Python provides a better structure and support for large programs than shell scripting.</div></p>
 
-## **<u> Python interpreter</u>**
+## **Python interpreter**
 <p><div align="justify"> <b><i>Interpreter:</b></i> An interpreter is a translator (computer program) that repeatedly reads instructions (one at a time) and translates them to machine code. It then executes instructions written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program. </div></p>
 
 <div align="justify"> <b><i>Compiler:</b></i> To translate a program written in a high-level language into a low-level language all at once, in preparation for later execution. </div> </p>
 
 ![compiler and interpreter](./img/1.png)
-## **<u> Difference between Compiler and Interpreter</u>**
-| Compiler | Interpreter |
+## **Difference between Compiler and Interpreter**
+|<div align="center"> Compiler </div> |<div align="center"> Interpreter </div> |
 | --- | ----------- |
 | <div align="justify"> Scans the entire program and translates it as a whole into machine code. </div> | <div align="justify">Translates program one statement at a time. </div>|
 | <div align="justify"> It takes large amount of time to analyze the source code but the overall execution time is comparatively faster. </div> | <div align="justify"> It takes less amount of time to analyze the source code but the overall execution time is slower. </div> |
@@ -191,41 +191,46 @@ Be careful not to fall off
 ***
 <p><div align="justify">A Python variable is a reserved memory location to store values. In other words, a variable in a python program gives data to the computer for processing.</div></p>
 <p><div align="justify">Every value in Python has a datatype. Different data types in Python are Numbers,
-List, Tuple, Strings, Dictionary, etc. Variables can be declared by any name or even alphabets like a, aa, abc, etc. </p></div>
+List, Tuple, Strings, Dictionary, etc. Variables can be declared by any name. </p></div>
 
 ## **_Variable Naming Rules in Python_** 
 * <p><div align="justify"> Variable name should start with letter(a-zA-Z) or underscore ( _ ). </p></div> <b>Valid : age , _age , Age <p>Invalid : 1age</p></b>
 * <p><div align="justify">In variable name, no special characters allowed other than underscore ( _ ). </p></div> <b>Valid : age_ , _age <p>Invalid : age_*</p></b>
-* <p><div align="justify">Variables are case sensitive.</p> </div><b>age and Age are different, since variable names are case sensitive</b>
-* <p><div align="justify">Variable name can have numbers but not at the beginning.</p></div> <b>Example: Age1**</b>
+* <p><div align="justify">Variables are case sensitive.</p> </div><b><i>age</i> and <i>Age</i> are different, since variable names are case sensitive</b>
+* <p><div align="justify">Variable name can have numbers but not at the beginning.</p></div> <b>Example: Age1</b>
 * <p><div align="justify">Variable name should not be a Python keyword. Keywords are also called as reserved words.</p></div> <b>Example: pass, break, continue.. etc are reserved for special meaning in Python. So, we should not declare keyword as a variable name. </b>
 ## **_How to Declare and use a Variable_** 
 <p><div align="justify">Let see an example. We will declare variable "a" and print it</div></p>
 
 ```python
->>>a=100
->>>print(a)
+>>>number=100
+>>>print(number)
 ```
-### **Output**
+**Output**
+```
 100
+```
 
 ## **_Re-declare a Variable_** 
 <p><div align="justify">You can re-declare the variable even after you have declared it once.</p></div>
 
 ```python
->>>a=100
->>>print(a)
->>>a=’Python’
->>>print(a)
+>>>variable=100
+>>>print(variable)
+>>>variable=’Python’
+>>>print(variable)
 ```
-### **Output**
-100 <p></p> Python
+**Output**
+```
+100 
+Python
+```
 
 ## **_Concatenate Variables_**
 ```python
->>>a='ABS'
->>>b=1
->>>print(a+b)
+>>>string1='ABS'
+>>>number=1
+>>>print(string1+number)
 ```
 **Output**
 ```python
@@ -235,9 +240,9 @@ Traceback (most recent call last):
 TypeError: can only concatenate str (not "int") to str
 ```
 ```python
->>> a='ABS'
->>> b=1
->>> print(a+str(b))
+>>> string1='ABS'
+>>> number=1
+>>> print(string1+str(number))
 ```
 **Output**
 ```
@@ -245,6 +250,8 @@ ABS1
 ```
 ## **_Delete a variable_**
 <p><div align="justify">It is possible to delete variable using the command del "variable name".</p></div>
+
+![python cmd](./img/delete.PNG)
 
 >## **Values and Types**
 ***
@@ -293,12 +300,12 @@ ABS1
 >>>type(100)
 <class 'int'> 
 
->>> x=1234567890
->>> type(x)
+>>> num=1234567890
+>>> type(num)
 <class 'int'> 
 
->>>y=5000000000000000000000000000000000000000000000000000000
->>> type(y) 
+>>>num=5000000000000000000000000000000000000000000000000000000
+>>> type(num) 
 <class 'int'>
 ```
 <p><div align="justify">Leading zeros in non-zero integers are not allowed e.g. 000123 is invalid number, 0000 is 0.</p></div>
@@ -313,8 +320,8 @@ SyntaxError: leading zeros in decimal integer literals are not permitted; use an
 <p><div align="justify">Python does not allow comma as number delimiter. Use underscore _ as a delimiter instead.</p></div>
 
 ```python
->>> x=1_234_567_890
->>> x
+>>> num_x=1_234_567_890
+>>> num_x
 1234567890
 ```
 <p><div align="justify">The <b><i>int( )</b></i> function converts a string or float to int.</p></div>
@@ -329,12 +336,60 @@ SyntaxError: leading zeros in decimal integer literals are not permitted; use an
 >>> int('100', 2)
 4
 ```
-## **_Boolean_**
+## **_Float_**
+<p><div align="justify"> In Python, floating point numbers (float) are positive and negative real numbers with a fractional part denoted by the decimal symbol . or the scientific notation E or e, <b>e.g. 1234.56, 3.142, -1.55, 0.23.</b></p></div>
+
+```python
+>>> float_num=3.12
+>>> float_num
+3.12
+>>> type(float_num)
+<class 'float'>
+```
+<p><div align="justify">Floats can be separated by the underscore _, <b>e.g. 123_42.222_013</b> is a valid float.</p> </div>
+
+```python
+>>> float_num=123_42.222_013
+>>> float_num
+12342.222013
+```
+<p><div align="justify">Floats has the maximum size depends on your system. The float beyond its maximum size referred as <b>"inf", "Inf", "INFINITY", or "infinity".</b> <b> Float 2e400</b> will be considered as infinity for most systems.</p> </div>
+
+```python
+>>> float_num=2e400
+>>> float_num
+inf
+```
+## **_Complex Number_**
+<p><div align="justify">A complex number is a number with real and imaginary components. For example, 5 + 6j is a complex number where 5 is the real component and 6 multiplied by j is an imaginary component.</p></div>
+
+```python
+>>> complex_num=7+3j
+>>> complex_num
+(7+3j)
+
+>>> type(complex_num)
+<class 'complex'>
+```
+<p><div align="justify">You must use <b>j or J</b> as imaginary component. Using other character will throw syntax error.</p></div>
+
+```python
+>>> complex_num=5+2k
+SyntaxError: invalid syntax
+
+>>> complex_num=5+j
+SyntaxError: invalid syntax
+
+>>> complex_num=5j+2j
+SyntaxError: invalid syntax
+```
+## **Boolean**
 <p><div align="justify">Data type with one of the two built-in values, True or False. Boolean objects that are equal to True are truthy (true), and those equal to False are falsy (false). But non-Boolean objects can be evaluated in Boolean context as well and determined to be true or false. It is denoted by the <b><i>class bool</b></i>.True and False with capital <b><i>‘T’ and ‘F’</b></i> are valid booleans otherwise python will throw an error.</p></div>
 
 ```python
 >>>print(type(True))
 <class 'bool'>
+
 >>>print(type(False))
 <class 'bool'>
 
@@ -343,50 +398,7 @@ Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
 NameError: name 'true' is not defined
 ```
-## **_Float_**
-<p><div align="justify"> In Python, floating point numbers (float) are positive and negative real numbers with a fractional part denoted by the decimal symbol . or the scientific notation E or e, <b>e.g. 1234.56, 3.142, -1.55, 0.23.</b></p></div>
 
-```python
->>> f=3.12
->>> f
-3.12
->>> type(f)
-<class 'float'>
-```
-<p><div align="justify">Floats can be separated by the underscore _, <b>e.g. 123_42.222_013</b> is a valid float.</p> </div>
-
-```python
->>> f=123_42.222_013
->>> f
-12342.222013
-```
-<p><div align="justify">Floats has the maximum size depends on your system. The float beyond its maximum size referred as <b>"inf", "Inf", "INFINITY", or "infinity".</b> <b> Float 2e400</b> will be considered as infinity for most systems.</p> </div>
-
-```python
->>> f=2e400
->>> f
-inf
-```
-## **_Complex Number_**
-<p><div align="justify">A complex number is a number with real and imaginary components. For example, 5 + 6j is a complex number where 5 is the real component and 6 multiplied by j is an imaginary component.</p></div>
-
-```python
->>> a=7+3j
->>> a
-(7+3j)
->>> type(a)
-<class 'complex'>
-```
-<p><div align="justify">You must use <b>j or J</b> as imaginary component. Using other character will throw syntax error.</p></div>
-
-```python
->>> a=5+2k
-SyntaxError: invalid syntax
->>> a=5+j
-SyntaxError: invalid syntax
->>> a=5j+2j
-SyntaxError: invalid syntax
-```
 ## **Sequence Type**
 <p><div align="justify">In Python, sequence is the ordered collection of similar or different data types. Sequences allows to store multiple values in an organized and efficient fashion. There are several sequence types in Python</p></div>
 
@@ -446,8 +458,7 @@ IndexError: string index out of range
 Traceback (most recent call last):
   File "<pyshell#13>", line 1, in <module>
     wish[-6]
-IndexError: string index out of range
->>> 
+IndexError: string index out of range 
 ```
 <p><div align="justify">The string is an immutable object. Hence, it is not possible to modify it. The attempt to assign different characters at a certain index results in errors.</p></div>
 
@@ -466,40 +477,40 @@ TypeError: 'str' object does not support item assignment
 >>> type(wish)
 <class 'str'>
 ```
-## **_Escape Sequences_**
+### **_Escape Sequences_**
 <p><div align="justify">The escape character is used to invoke an alternative implementation of the subsequent character in a sequence.</p></div>
 
 ```python
->>> str1='Welcome to \'Python Tutorial\' '
->>> print(str1)
+>>> string1='Welcome to \'Python Tutorial\' '
+>>> print(string1)
 Welcome to 'Python Tutorial' 
 
->>> str1='Welcome to \"Python Tutorial\" '
->>> print(str1)
+>>> string1='Welcome to \"Python Tutorial\" '
+>>> print(string1)
 Welcome to "Python Tutorial" 
 ```
-| Escape Sequence | Description | Example |
+| <div align="center">Escape Sequence</div> | <div align="center">Description </div> | <div align="center">Example</div> |
 | ----------- | ----------- | ----------- |
-| <div align="center"> \\\ </div> | <div align="justify">Backslash </div>| <div>>>> "Hello\\Hi"</div> Hello\Hi   | 
-| <div align="center"> \b </div> | <div align="justify">Backspace </div>| <div>>>> "ab\bc"</div> ac | 
-| <div align="center"> \f </div> | <div align="justify">Form feed </div>|  | 
-| <div align="center"> \n </div> | <div align="justify">Newline </div>| <div>>>> "hello\nworld"</div> <div>Hello </div>world | 
-| <div align="center"> \nnn </div> | <div align="justify">Octal notation, where n is in the range 0-7 </div>| <div>>>> '\101'</div> A | 
-| <div align="center"> \t </div> | <div align="justify">Tab </div>| <div> >>>'Hello\tPython'</div> Hello &nbsp; &nbsp; &nbsp; &nbsp; Python |
-| <div align="center"> \xnn </div> | <div align="justify">Hexadecimal notation, where n is in the range 0-9, a-f, or A-F </div>| <div> >>> '\x48\x69'</div> Hi |
-| <div align="center"> \onn </div> | <div align="justify">Octal notation, where n is in the range 0-9 </div>| <div> >>> "\110\151"</div> Hi 
+| <div align="center"> \\\ </div> | <div align="center">Backslash </div>| <div>>>> "Hello\\Hi"</div> Hello\Hi   | 
+| <div align="center"> \b </div> | <div align="center">Backspace </div>| <div>>>> "ab\bc"</div> ac | 
+| <div align="center"> \f </div> | <div align="center">Form feed </div>|  | 
+| <div align="center"> \n </div> | <div align="center">Newline </div>| <div>>>> "hello\nworld"</div> <div>Hello </div>world | 
+| <div align="center"> \nnn </div> | <div align="center">Octal notation, where n is in the range 0-7 </div>| <div>>>> '\101'</div> A | 
+| <div align="center"> \t </div> | <div align="center">Tab </div>| <div> >>>'Hello\tPython'</div> Hello &nbsp; &nbsp; &nbsp; &nbsp; Python |
+| <div align="center"> \xnn </div> | <div align="center">Hexadecimal notation, where n is in the range 0-9, a-f, or A-F </div>| <div> >>> '\x48\x69'</div> Hi |
+| <div align="center"> \onn </div> | <div align="center">Octal notation, where n is in the range 0-9 </div>| <div> >>> "\110\151"</div> Hi 
 ## **_List_**
 <p><div align="justify">Lists are just like the arrays, declared in other languages which is a ordered collection of data. It is very flexible as the items in a list do not need to be of the same type.</div></p>
 
-**Creating a List**
-Lists in Python can be created by just placing the sequence inside the square brackets[].
+**Creating a List :**
+Lists in Python can be created by just placing the sequence inside the square brackets[ ].
 
 **Example:** https://replit.com/@ErAmbikaM/List1#main.py
 
 <p><div align="justify">A list can contain unlimited data depending upon the limitation of your computer's memory.</div></p>
 
 ```python
-nums=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20, 21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60]
+number=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20, 21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60]
 ```
 <p><div align="justify">List items can be accessed using a zero-based index in the square brackets [ ]. Indexes start from zero and increment by one for each item. Accessing an item using a large index than the list's total items would result in IndexError. </div></p>
 
@@ -514,8 +525,8 @@ nums=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20, 21,22,23,24,25,26,27,2
 
 **Example: Tuple Variable Declaration and assignment**
 ```python
-tpl=() # empty tuple
-print(tpl)
+empty_tuple=() # empty tuple
+print(empty_tuple)
 
 names = ('Jeff', 'Bill', 'Steve', 'Yash') # string tuple
 print(names)
@@ -523,8 +534,8 @@ print(names)
 nums = (1, 2, 3, 4, 5) # int tuple
 print(nums)
 
-employee=(1, 'Steve', True, 25, 12000)  # heterogeneous data tuple
-print(employee)
+hetero_tuple=(1, 'Steve', True, 25, 12000)  # heterogeneous data tuple
+print(hetero_tuple)
 ```
 **Output**
 
@@ -538,8 +549,8 @@ print(names)
 nums = 1, 2, 3, 4, 5 # int tuple
 print(nums)
 
-employee=1, 'Steve', True, 25, 12000  # heterogeneous data tuple
-print(employee)
+hetero_tuple=1, 'Steve', True, 25, 12000  # heterogeneous data tuple
+print(hetero_tuple)
 ```
 **Output**
 ![tuple example](./img/8.png)
@@ -599,10 +610,58 @@ print(a, b, c, d)
 ```
 **Output**
 ![tuple access](./img/12.png)
->## **Expressions**
-***
-<p><div align="justify">A simple example of an expression is 2 + 3. An expression can be broken down into operators and operands.</p></div> 
-<p><div align="justify">An expression is a combination of values, variables, operators, and calls to functions. Expressions need to be evaluated. If you ask Python to print an expression, the interpreter evaluates the expression and displays the result. </p></div>
+## **Dictionary**
+<p><div align="justify"> Dictionary in Python is an unordered collection of data values, used to store data values like a map, which, unlike other Data Types that hold only a single value as an element, Dictionary holds key:value pair. Key-value is provided in the dictionary to make it more optimized.</p></div>
+<p><div align="justify">In Python, a Dictionary can be created by placing a sequence of elements within curly <b>{ } braces</b>, separated by <b>‘comma’</b>. Dictionary holds a pair of values, one being the Key and the other corresponding pair element being its <b>Key:value</b>. Values in a dictionary can be of any data type and can be duplicated, whereas keys can’t be repeated and must be immutable.</p></div> 
+
+```python
+# Creating an empty Dictionary
+Dict = {}
+print("Empty Dictionary: ")
+print(Dict)
+ 
+# Creating a Dictionary
+# with dict() method
+Dict = dict({1: 'Python', 2: 'For', 3:'Beginners'})
+print("\nDictionary with the use of dict(): ")
+print(Dict)
+ 
+# Creating a Dictionary
+# with each item as a Pair
+Dict = dict([(1, 'Python'), (2, 'Data Science')])
+print("\nDictionary with each item as a pair: ")
+print(Dict)
+
+# accessing a element using key
+Dict = dict([(1, 'Python'), (2, 'Data Science')])
+print("Accessing a element using key:")
+print(Dict[1])
+```
+**Output**
+
+![Dict](./img/dict.PNG)
+## **Set**
+<p><div align="justify">A Set is an unordered collection data type that is iterable, mutable and has no duplicate elements. Python’s set class represents the mathematical notion of a set. </p></div>
+<p><div align="justify">The major advantage of using a set, as opposed to a list, is that it has a highly optimized method for checking whether a specific element is contained in the set. This is based on a data structure known as a hash table. Since sets are unordered, we cannot access items using indexes like we do in lists.</p></div>
+
+```python
+# Python program to
+# demonstrate sets
+  
+# Same as {"a", "b", "c"}
+myset = set(["a", "b", "c"])
+print(myset)
+  
+# Adding element to the set
+myset.add("d")
+print(myset)
+```
+**Output**
+```
+{'c', 'b', 'a'}
+{'d', 'c', 'b', 'a'}
+```
+
 
 >## **Statements**
 ***
@@ -639,38 +698,38 @@ flag = 2; ropes = 3; pole = 4
 ## **_Arithmetic operators_**
 <p><div align="justify">Arithmetic operators are used to perform mathematical operations like addition, subtraction, multiplication, etc.</p></div>
 
-| Operator | Meaning | Example |
+| <div align="center">Operator</div> | <div align="center">Meaning</div> | <div align="center">Example</div> |
 | ----------- | ----------- | ----------- |
-| <div align="center"> + </div> | <div align="justify">Add two operands or unary plus </div>| x + y + 2  |
-| <div align="center"> - </div> | <div align="justify">Subtract right operand from the left or unary minus </div>| x - y - 2  |
-| <div align="center"> * </div> | <div align="justify">Multiply two operands </div>| x * y  |
-| <div align="center"> / </div> | <div align="justify">Divide left operand by the right one (always results into float) </div>| x / y |
-| <div align="center"> % </div> | <div align="justify">Modulus - remainder of the division of left operand by the right </div>| x % y (remainder of x/y) |
-| <div align="center"> // </div> | <div align="justify">Floor division - division that results into whole number adjusted to the left in the number line </div>| x // y |
-| <div align="center"> ** </div> | <div align="justify">Exponent - left operand raised to the power of right </div>| x**y (x to the power y) |
+| <div align="center"> + </div> | <div align="justify">Add two operands or unary plus </div>| <div align="center">x + y + 2</div>  |
+| <div align="center"> - </div> | <div align="justify">Subtract right operand from the left or unary minus </div>| <div align="center">x - y - 2</div>  |
+| <div align="center"> * </div> | <div align="justify">Multiply two operands </div>|<div align="center"> x * y </div> |
+| <div align="center"> / </div> | <div align="justify">Divide left operand by the right one (always results into float) </div>|<div align="center"> x / y </div>|
+| <div align="center"> % </div> | <div align="justify">Modulus - remainder of the division of left operand by the right </div>|<div align="center"> x % y (remainder of x/y) </div> |
+| <div align="center"> // </div> | <div align="justify">Floor division - division that results into whole number adjusted to the left in the number line </div>|<div align="center"> x // y </div>|
+| <div align="center"> ** </div> | <div align="justify">Exponent - left operand raised to the power of right </div>|<div align="center"> x**y (x to the power y) </div> |
 
 **Example:** https://replit.com/@ErAmbikaM/arithmeticoperator#main.py
 ## **_Comparison operators_**
 <p><div align="justify">Comparison operators are used to compare values. It returns either True or False according to the condition.</p></div>
 
-| Operator | Meaning | Example |
+| <div align="center">Operator</div> | <div align="center">Meaning</div> | <div align="center">Example</div> |
 | ----------- | ----------- | ----------- |
-| <div align="center"> > </div> | <div align="justify">Greater than - True if left operand is greater than the right </div>| x > y  |
-| <div align="center"> < </div> | <div align="justify">Less than - True if left operand is less than the right </div>| x < y  |
-| <div align="center"> == </div> | <div align="justify">Equal to - True if both operands are equal </div>| x == y  |
-| <div align="center"> != </div> | <div align="justify">Not equal to - True if operands are not equal </div>| x != y  |
-| <div align="center"> >= </div> | <div align="justify">Greater than or equal to - True if left operand is greater than or equal to the right </div>| x >= y  |
-| <div align="center"> <= </div> | <div align="justify">Less than or equal to - True if left operand is less than or equal to the right </div>| x <= y  |
+| <div align="center"> > </div> | <div align="justify">Greater than - True if left operand is greater than the right </div>| <div align="center">x > y </div> |
+| <div align="center"> < </div> | <div align="justify">Less than - True if left operand is less than the right </div>| <div align="center">x < y </div> |
+| <div align="center"> == </div> | <div align="justify">Equal to - True if both operands are equal </div>| <div align="center">x == y </div> |
+| <div align="center"> != </div> | <div align="justify">Not equal to - True if operands are not equal </div>|<div align="center"> x != y </div> |
+| <div align="center"> >= </div> | <div align="justify">Greater than or equal to - True if left operand is greater than or equal to the right </div>| <div align="center">x >= y </div> |
+| <div align="center"> <= </div> | <div align="justify">Less than or equal to - True if left operand is less than or equal to the right </div>|<div align="center"> x <= y </div> |
 
 **Example:** https://replit.com/@ErAmbikaM/Comparisonoperator#main.py
 
 ## **_Logical operators_**
 <p><div align="justify">Logical operators are the and, or, not operators.</p></div>
 
-| Operator | Meaning | Example |
+| <div align="center">Operator</div> | <div align="center">Meaning</div> | <div align="center">Example</div> |
 | ----------- | ----------- | ----------- |
-| <div align="center">and </div> | <div align="justify">True if both the operands are true </div>| x and y |
-| <div align="center">or </div> | <div align="justify">True if either of the operands is true </div>| x or y |
+| <div align="center">and </div> | <div align="justify">True if both the operands are true </div>| <div align="center">x and y</div> |
+| <div align="center">or </div> | <div align="justify">True if either of the operands is true </div>| <div align="center">x or y</div> |
 
 **Example:** https://replit.com/@ErAmbikaM/Logicaloperator#main.py
 
@@ -678,18 +737,18 @@ flag = 2; ropes = 3; pole = 4
 <p><div align="justify">Bitwise operators act on operands as if they were strings of binary digits. They operate bit by bit, hence the name.</p></div>
 <p><div align="justify">In the table below: Let x = 10 (0000 1010 in binary) and y = 4 (0000 0100 in binary)</p></div>
 
-| Operator | Meaning | Example |
+| <div align="center">Operator</div> | <div align="center">Meaning</div> | <div align="center">Example</div> |
 | ----------- | ----------- | ----------- |
-| <div align="center">& </div> | <div align="justify">Bitwise AND </div>| x & y = 0 (0000 0000) |
-| <div align="center">\|</div> | <div align="justify">Bitwise OR </div>| x \| y = 14 (0000 1110) |
-| <div align="center">~</div> | <div align="justify">Bitwise NOT </div>| ~x = -11 (1111 0101) |
-| <div align="center">^</div> | <div align="justify">Bitwise XOR </div>| x ^ y = 14 (0000 1110) |
-| <div align="center">>></div> | <div align="justify">Bitwise right shift </div>| x >> 2 = 2 (0000 0010) |
-| <div align="center"><<</div> | <div align="justify">Bitwise left shift </div>| x << 2 = 40 (0010 1000) |
+| <div align="center">& </div> | <div align="justify">Bitwise AND </div>|<div align="center"> x & y = 0 (0000 0000)</div> |
+| <div align="center">\|</div> | <div align="justify">Bitwise OR </div>| <div align="center">x \| y = 14 (0000 1110) </div>|
+| <div align="center">~</div> | <div align="justify">Bitwise NOT </div>|<div align="center"> ~x = -11 (1111 0101)</div> |
+| <div align="center">^</div> | <div align="justify">Bitwise XOR </div>| <div align="center">x ^ y = 14 (0000 1110)</div> |
+| <div align="center">>></div> | <div align="justify">Bitwise right shift </div>| <div align="center">x >> 2 = 2 (0000 0010) </div>|
+| <div align="center"><<</div> | <div align="justify">Bitwise left shift </div>|<div align="center"> x << 2 = 40 (0010 1000)</div> |
 ## **_Assignment operators_**
 <p><div align="justify">Assignment operators are used in Python to assign values to variables. a = 5 is a simple assignment operator that assigns the value 5 on the right to the variable a on the left.</p></div>
 
-| Operator | Example | Equivalent to |
+| <div align="center">Operator</div> | <div align="center">Meaning</div> | <div align="center">Example</div> |
 | ----------- | ----------- | ----------- |
 | <div align="center">= </div> | <div align="center">x = 5 </div>|<div align="center"> x = 5 </div> |
 | <div align="center">+= </div> | <div align="center">x += 5 </div>|<div align="center"> x = x + 5 </div> |
@@ -710,17 +769,17 @@ flag = 2; ropes = 3; pole = 4
 ### **_Identity operators_**
 <p><div align="justify"> <b>is and is not</b> are the identity operators in Python. They are used to check if two values (or variables) are located on the same part of the memory. Two variables that are equal does not imply that they are identical.
 
-| Operator | Meaning | Example |
+| <div align="center">Operator</div> | <div align="center">Meaning</div> | <div align="center">Example</div> |
 | ----------- | ----------- | ----------- |
-| <div align="center">is </div> | <div align="justify">True if the operands are identical (refer to the same object) </div>|<div align="center"> x is True </div> |
-| <div align="center">is not </div> | <div align="justify">True if the operands are identical (refer to the same object) </div>|<div align="center"> x is not True </div> |
+| <div align="center">is </div> | <div align="justify">Evaluates to true if the variables on either side of the operator point to the same object and false otherwise. </div>|<div align="center"> x is True </div> |
+| <div align="center">is not </div> | <div align="justify">Evaluates to false if the variables on either side of the operator point to the same object and true otherwise. </div>|<div align="center"> x is not True </div> |
 
 **Example:** https://replit.com/@ErAmbikaM/identity-operator#main.py
 
 ### **_Membership operators_**
 <p><div align="justify">in and not in are the membership operators in Python. They are used to test whether a value or variable is found in a sequence (string, list, tuple, set and dictionary). In a dictionary we can only test for presence of key, not the value.</p></div>
 
-| Operator | Meaning | Example |
+| <div align="center">Operator</div> | <div align="center">Meaning</div> | <div align="center">Example</div> |
 | ----------- | ----------- | ----------- |
 | <div align="center">in </div> | <div align="justify">True if value/variable is found in the sequence </div>|<div align="center"> 5 in x </div> |
 | <div align="center">not in</div> | <div align="justify">True if value/variable is not found in the sequence </div>|<div align="center"> 5 not in x </div> |
@@ -730,7 +789,37 @@ flag = 2; ropes = 3; pole = 4
 >## **Precedence of operators**
 <p><div align="justify">The following figure lists all operators from highest precedence to lowest.</p></div>
 
-![tuple access](./img/13.PNG)
+| <div align="center">Precedence</div> | <div align="center"> Operator</div> | <div align="center">Description </div>|
+| ----------- | ----------- | ----------- |
+| <div align="center">Lowest Precendence </div> | <div align="center"> or </div>|<div align="center"> Boolean OR </div> |
+| <div align="center"> </div> | <div align="center"> and </div>|<div align="center"> Boolean AND </div> |
+| <div align="center"> </div> | <div align="center"> not </div>|<div align="center"> Boolean NOT </div> |
+| <div align="center"> </div> | <div align="center"> ==, !=, <, <=, >, >=, is, is not </div>|<div align="center"> Comparisons, Identity </div> |
+| <div align="center"> </div> | <div align="center"> \| </div>|<div align="center"> Bitwise OR </div> |
+| <div align="center"> </div> | <div align="center"> ^ </div>|<div align="center"> Bitwise XOR </div> |
+| <div align="center"> </div> | <div align="center"> & </div>|<div align="center"> Bitwise AND </div> |
+| <div align="center"> </div> | <div align="center"> <<, >> </div>|<div align="center"> Bit Shifts </div> |
+| <div align="center"> </div> | <div align="center"> +, - </div>|<div align="center"> Addition, Subtraction </div> |
+| <div align="center"> </div> | <div align="center"> *, /, //, %</div>|<div align="center"> Multiplication, Division, Floor division, Modulo </div> |
+| <div align="center"> </div> | <div align="center"> +x, -x, ~x</div>|<div align="center"> Unary positive, Unary negation, Bitwise negation </div> |
+| <div align="center"> Highest Precedence </div> | <div align="center"> ** </div>|<div align="center"> Exponentiation </div> |
+
+
+>## **Expressions**
+***
+<p><div align="justify">A simple example of an expression is 2 + 3. An expression can be broken down into operators and operands.</p></div> 
+<p><div align="justify">An expression is a combination of values, variables, operators, and calls to functions. Expressions need to be evaluated. If you ask Python to print an expression, the interpreter evaluates the expression and displays the result. </p></div>
+
+```python
+>>> 20 + 4 * 10
+60
+>>> (20 + 4) * 10
+240
+>>> 2 * 3 ** 4 * 5
+810
+>>> 2 * 3 ** (4 * 5)
+6973568802
+```
 
 >## **Comments**
 <p><div align="justify">Comments are lines that exist in computer programs that are ignored by compilers and interpreters. Using comments in programs can make code more readable for humans, as it provides some information or explanation about what each part of a program is doing.</p></div>
@@ -805,8 +894,8 @@ person1 = {
 ```python
 import mymodule
 
-a = mymodule.person1["age"]
-print(a)
+age = mymodule.person1["age"]
+print(age)
 ```
 **Output**
 ```
@@ -870,7 +959,7 @@ my_function()
 **_Number of Arguments_**
 <p><div align="justify">By default, a function must be called with the correct number of arguments. Meaning that if your function expects 2 arguments, you have to call the function with 2 arguments, not more, and not less.</p></div>
 
-**_Types of Arguments_**
+## **_Types of Arguments_**
 
 <p><div align="justify">You can call a function by using the following types of formal arguments −</p></div>
 
@@ -879,26 +968,27 @@ my_function()
 * Default arguments
 * Variable-length arguments
 
-**_Required Arguments_**
+### **_Required Arguments_**
 * <p><div align="justify">Required arguments are the arguments passed to a function in correct positional order. </p></div>
 * <p><div align="justify">Here, the number of arguments in the function call should match exactly with the function definition. </p></div>
 
 **Example:** https://replit.com/@ErAmbikaM/RequiredArguments#main.py
 
-**_Keyword Arguments_**
+### **_Keyword Arguments_**
 * <p><div align="justify">Keyword arguments are related to the function calls. 
 * <p><div align="justify">When you use keyword arguments in a function call, the caller identifies the arguments by the parameter name.</p></div>
 
 **Example:** https://replit.com/@ErAmbikaM/KeywordArguments#main.py
 
-**_Default Arguments_**
+### **_Default Arguments_**
 * <p><div align="justify">A default argument is an argument that assumes a default value if a value is not provided in the function call for that argument. </p></div>
 
-**Example:** https://replit.com/@ErAmbikaM/Default-Arguments#main.py
+**Example:** <p> https://replit.com/@ErAmbikaM/Default-Arguments#main.py </p>
 
-**_Variable Length Arguments_**
+### **_Variable Length Arguments_**
 * <p><div align="justify">You may need to process a function for more arguments than you specified while defining the function. </p></div>
 * <p><div align="justify">These arguments are called variable-length arguments and are not named in the function definition, unlike required and default arguments. </p></div>
+* <p><div align="justify">If a function has both required and variable length arguments, then required arrguments should be followed by the variable length arguments as given in the syntax below.</p></div>
 
 **Syntax**
 
@@ -910,4 +1000,4 @@ def functionname([formal_args,] *var_args_tuple ):
 ```
 **Example:** https://replit.com/@ErAmbikaM/Variablelengtharguments#main.py
 
-Illustrative Programs - https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/tree/master/unit%20-%202%20%20programs
+**Illustrative Programs:** https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/tree/master/unit%20-%202%20%20programs
