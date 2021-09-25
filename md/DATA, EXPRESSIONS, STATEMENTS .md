@@ -6,6 +6,8 @@
 
 https://www.memcode.com/courses/2312 - 50+ flashcards to review the contents of this unit.
 
+https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/tree/master/unit%20-%202%20%20programs - List of Illustrative Programs in Unit 3.
+
 >## **Table of Contents**
 ***
 2.1. [Python interpreter and interactive mode](#python-interpreter)
@@ -73,7 +75,7 @@ https://www.memcode.com/courses/2312 - 50+ flashcards to review the contents of 
     
 >## **Pre – Unit Exercise**
 ***
-<div align="justify"><p>A simple game to get a clear view on different data values. </div></p>
+<div align="justify"><p>Practice on writing algorithms and pseudocode for various problems. </div></p>
 
 >## **Post – Unit Exercise**
 ***
