@@ -6,7 +6,7 @@
 
 https://www.memcode.com/courses/2312 - 50+ flashcards to review the contents of this unit.
 
-https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/tree/master/unit%20-%202%20%20programs - List of Illustrative Programs in Unit 2.
+https://github.com/Professor-Sathish/GE_8151-unit-programs/tree/master/MD%20FILES - List of Illustrative Programs in Unit 2.
 
 >## **Table of Contents**
 ***
