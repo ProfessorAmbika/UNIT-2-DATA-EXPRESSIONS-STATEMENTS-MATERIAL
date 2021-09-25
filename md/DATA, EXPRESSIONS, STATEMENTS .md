@@ -8,7 +8,7 @@ https://www.memcode.com/courses/2312 - 50+ flashcards to review the contents of 
 
 >## **Table of Contents**
 ***
-2.1. [Python interpreter and interactive mode](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#python-interpreter)
+2.1. [Python interpreter and interactive mode](#python-interpreter)
 - [Introduction to Python](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#introduction-to-python)
 - [Python Features](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#python-features)
 - [Python interpreter](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#-python-interpreter)
