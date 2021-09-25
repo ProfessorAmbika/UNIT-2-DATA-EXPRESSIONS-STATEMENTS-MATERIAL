@@ -15,7 +15,7 @@ https://github.com/Professor-Sathish/GE_8151-unit-programs/tree/master/MD%20FILE
 - [2.1.2. Python Features](#212-python-features)
 - [2.1.3. Python interpreter](#213-python-interpreter)
 - [2.1.4. Difference between Compiler and Interpreter](#214-difference-between-compiler-and-interpreter)
-- [2.1.5. Modes of Python Interpreter](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#modes-of-python-interpreter)
+- [2.1.5. Modes of Python Interpreter](#215-modes-of-python-interpreter)
     - [2.1.5.1 Interactive Mode](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#1-interactive-mode)
     - [2.1.5.2. Script Mode](https://github.com/ProfessorAmbika/UNIT-2-DATA-EXPRESSIONS-STATEMENTS-MATERIAL/blob/main/md/DATA,%20EXPRESSIONS,%20STATEMENTS%20.md#2-script-mode)  
 
