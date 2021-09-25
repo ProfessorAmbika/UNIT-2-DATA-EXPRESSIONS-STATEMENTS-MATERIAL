@@ -8,7 +8,7 @@ https://www.memcode.com/courses/2312 - 50+ flashcards to review the contents of 
 
 >## **Table of Contents**
 ***
-2.1. [Python interpreter and interactive mode](#python-interpreter)
+2.1. [Python interpreter and interactive mode](# python-interpreter)
 - [Introduction to Python](#introduction-to-python)
 - [Python Features](#python-features)
 - [Python interpreter](#-python-interpreter)
